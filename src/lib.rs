@@ -6,6 +6,7 @@
 #![forbid(unsafe_code)]
 
 pub mod gateway;
+pub mod lifecycle;
 pub mod money;
 
 /// Declara que el curso todavía está en planificación.
