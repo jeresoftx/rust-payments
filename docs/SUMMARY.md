@@ -9,3 +9,7 @@ sin completar su revisión humana.
 ## Capítulos
 
 - [01. Modelo de una pasarela y sus actores](capitulos/01-modelo-de-pasarela.md)
+
+## Ejercicios
+
+- [01. Modelo de una pasarela](ejercicios/01-modelo-de-pasarela.md)
