@@ -99,11 +99,11 @@ seguridad, pruebas y cumplimiento aplicable.
 - [x] Modelar decisiones sintéticas sin puntaje ni datos personales reales.
 - [x] Documentar límites de antifraude y cumplimiento.
 
-### 10. Caso integrador de operación fintech
+### 10. Caso integrador de operación fintech — draft
 
-- [ ] Unir orden, pago sintético, idempotencia, webhook y conciliación.
-- [ ] Hacer visibles observabilidad, auditoría y fallas parciales.
-- [ ] Cerrar con un caso determinista, sin proveedor, dinero ni datos reales.
+- [x] Unir orden, pago sintético, idempotencia, webhook y conciliación.
+- [x] Hacer visibles observabilidad, auditoría y fallas parciales.
+- [x] Cerrar con un caso determinista, sin proveedor, dinero ni datos reales.
 
 ## Auditoría y revisión
 
