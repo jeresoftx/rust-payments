@@ -6,6 +6,13 @@ fintech de Jeresoft Academy.
 No hay fechas límite: la corrección, la seguridad y el porqué documentado
 prevalecen sobre la velocidad (RFC-0001 §1 y §2).
 
+## Estado actual
+
+Los diez capítulos, sus ejemplos, ejercicios y auditorías locales están en
+**draft completo**. El siguiente filtro es la revisión humana editorial,
+técnica y de seguridad; hasta entonces el curso no se considera `reviewed` ni
+`published` (RFC-0001 §20).
+
 ## Orden de construcción
 
 1. Modelo de dominio, dinero y ciclo de vida de transacciones.
