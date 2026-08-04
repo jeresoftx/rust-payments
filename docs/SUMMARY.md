@@ -34,3 +34,4 @@ sin completar su revisión humana.
 ## Auditorías
 
 - [Auditoría técnica](auditorias/tecnica.md)
+- [Auditoría de seguridad, privacidad y licencias](auditorias/seguridad-privacidad-licencias.md)
