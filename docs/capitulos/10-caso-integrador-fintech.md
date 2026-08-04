@@ -35,3 +35,7 @@ flowchart LR
 No aplica benchmark ni property testing adicional. Las invariantes son los
 resultados verificables de los módulos ya probados; la meta es integración
 pedagógica, no rendimiento de una infraestructura inexistente.
+
+La prueba de integración confirma un resultado para cada frontera: proveedor,
+idempotencia, webhook y conciliación. No se agrega benchmark ni property
+testing porque el flujo es determinista y el curso no mide sistemas reales.
