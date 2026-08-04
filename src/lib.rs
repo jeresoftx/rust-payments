@@ -11,6 +11,7 @@ pub mod lifecycle;
 pub mod money;
 pub mod provider;
 pub mod token;
+pub mod webhook;
 
 /// Declara que el curso todavía está en planificación.
 pub const fn course_status() -> &'static str {
