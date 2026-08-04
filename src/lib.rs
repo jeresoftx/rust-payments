@@ -9,6 +9,7 @@ pub mod gateway;
 pub mod idempotency;
 pub mod lifecycle;
 pub mod money;
+pub mod provider;
 pub mod token;
 
 /// Declara que el curso todavía está en planificación.
