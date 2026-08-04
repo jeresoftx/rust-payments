@@ -14,3 +14,4 @@ sin completar su revisión humana.
 ## Ejercicios
 
 - [01. Modelo de una pasarela](ejercicios/01-modelo-de-pasarela.md)
+- [02. Dinero y redondeo](ejercicios/02-dinero-y-redondeo.md)
