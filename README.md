@@ -20,7 +20,7 @@ los convierte en trabajo trazable antes de implementar contenido.
 | # | Capítulo | Estado |
 | --- | --- | --- |
 | 01 | Modelo de una pasarela y sus actores | draft |
-| 02 | Dinero, monedas y redondeo | planned |
+| 02 | Dinero, monedas y redondeo | draft |
 | 03 | Ciclo de vida de una transacción | planned |
 | 04 | Tokenización, PCI-DSS y límites de datos | planned |
 | 05 | Idempotencia y reintentos seguros | planned |

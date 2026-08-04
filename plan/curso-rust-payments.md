@@ -51,11 +51,11 @@ seguridad, pruebas y cumplimiento aplicable.
 - [x] Modelar fronteras de responsabilidad y estados sintéticos.
 - [x] Comparar integración de proveedor, orquestación propia y procesador.
 
-### 02. Dinero, monedas y redondeo
+### 02. Dinero, monedas y redondeo — draft
 
-- [ ] Modelar montos en unidades menores y códigos de moneda explícitos.
-- [ ] Explicar por qué los flotantes no representan dinero correctamente.
-- [ ] Probar conversiones, redondeos y límites sintéticos.
+- [x] Modelar montos en unidades menores y códigos de moneda explícitos.
+- [x] Explicar por qué los flotantes no representan dinero correctamente.
+- [x] Probar conversiones, redondeos y límites sintéticos.
 
 ### 03. Ciclo de vida de una transacción
 
