@@ -93,11 +93,11 @@ seguridad, pruebas y cumplimiento aplicable.
 - [x] Comparar estado de proveedor, estado interno y evidencia auditable.
 - [x] Probar flujos de conciliación y decisiones de reparación.
 
-### 09. Fraude, 3-D Secure y SCA
+### 09. Fraude, 3-D Secure y SCA — draft
 
-- [ ] Explicar señales, autenticación reforzada y decisiones de riesgo.
-- [ ] Modelar decisiones sintéticas sin puntaje ni datos personales reales.
-- [ ] Documentar límites de antifraude y cumplimiento.
+- [x] Explicar señales, autenticación reforzada y decisiones de riesgo.
+- [x] Modelar decisiones sintéticas sin puntaje ni datos personales reales.
+- [x] Documentar límites de antifraude y cumplimiento.
 
 ### 10. Caso integrador de operación fintech
 

@@ -27,7 +27,7 @@ los convierte en trabajo trazable antes de implementar contenido.
 | 06 | Adaptadores de proveedores | draft |
 | 07 | Webhooks y cambios de estado asíncronos | draft |
 | 08 | Conciliación, auditoría y discrepancias | draft |
-| 09 | Fraude, 3-D Secure y SCA | planned |
+| 09 | Fraude, 3-D Secure y SCA | draft |
 | 10 | Caso integrador de operación fintech | planned |
 
 ## Prerrequisitos y lugar en el camino
