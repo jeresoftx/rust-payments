@@ -87,11 +87,11 @@ seguridad, pruebas y cumplimiento aplicable.
 - [x] Comparar polling, webhook y reconciliación posterior.
 - [x] Probar deduplicación y transiciones tardías deterministas.
 
-### 08. Conciliación, auditoría y discrepancias
+### 08. Conciliación, auditoría y discrepancias — draft
 
-- [ ] Modelar un libro de eventos sintético y discrepancias explícitas.
-- [ ] Comparar estado de proveedor, estado interno y evidencia auditable.
-- [ ] Probar flujos de conciliación y decisiones de reparación.
+- [x] Modelar un libro de eventos sintético y discrepancias explícitas.
+- [x] Comparar estado de proveedor, estado interno y evidencia auditable.
+- [x] Probar flujos de conciliación y decisiones de reparación.
 
 ### 09. Fraude, 3-D Secure y SCA
 
