@@ -31,3 +31,8 @@ almacenamiento distribuido, caducidad ni coordinación con proveedores reales.
 No aplica benchmark: el mapa en memoria no representa una base compartida. No
 se agrega property testing porque las invariantes principales se cubren con
 casos deterministas: misma llave, mismo resultado; llave nueva, nuevo registro.
+
+La prueba del registro demuestra que una segunda propuesta no puede reemplazar
+el primer resultado para la misma llave. Ese comportamiento es el objeto del
+capítulo; medir el rendimiento de `HashMap` no demostraría idempotencia ni
+sería representativo de un almacenamiento compartido.
