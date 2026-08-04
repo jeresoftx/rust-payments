@@ -23,3 +23,8 @@ ni representar un token emitido por un proveedor.
 
 No aplica benchmark ni property testing por ahora: las invariantes son finitas
 y se verifican con pruebas de propósito, vencimiento y ausencia de secreto.
+
+La prueba del crate cubre el vencimiento y el uso cruzado de propósito. No se
+agrega una dependencia de pruebas generativas: el contrato todavía no tiene un
+espacio combinatorio que la justifique y las reglas quedan más claras en una
+prueba directa.
