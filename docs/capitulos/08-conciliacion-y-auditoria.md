@@ -23,3 +23,7 @@ producción.
 
 No aplica benchmark ni property testing: la matriz de coincidencia y
 discrepancia es pequeña y queda cubierta por pruebas explícitas.
+
+La prueba comprueba tanto la coincidencia como la discrepancia. No se agrega
+una dependencia generativa porque la decisión está exhaustivamente descrita por
+dos resultados, y un benchmark no representaría una conciliación externa.
