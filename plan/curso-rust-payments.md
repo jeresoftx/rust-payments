@@ -63,11 +63,11 @@ seguridad, pruebas y cumplimiento aplicable.
 - [x] Comparar máquina de estados explícita contra estados implícitos.
 - [x] Probar transiciones válidas e inválidas sin dinero real.
 
-### 04. Tokenización, PCI-DSS y límites de datos
+### 04. Tokenización, PCI-DSS y límites de datos — draft
 
-- [ ] Explicar tokenización y la frontera de responsabilidad PCI-DSS.
-- [ ] Modelar referencias sintéticas sin datos de tarjeta.
-- [ ] Documentar lo que el curso no certifica ni almacena.
+- [x] Explicar tokenización y la frontera de responsabilidad PCI-DSS.
+- [x] Modelar referencias sintéticas sin datos de tarjeta.
+- [x] Documentar lo que el curso no certifica ni almacena.
 
 ### 05. Idempotencia y reintentos seguros
 
