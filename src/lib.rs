@@ -5,9 +5,11 @@
 
 #![forbid(unsafe_code)]
 
+pub mod gateway;
+
 /// Declara que el curso todavía está en planificación.
 pub const fn course_status() -> &'static str {
-    "planned"
+    "draft"
 }
 
 #[cfg(test)]
@@ -15,7 +17,7 @@ mod tests {
     use super::course_status;
 
     #[test]
-    fn crate_declara_el_estado_planeado() {
-        assert_eq!(course_status(), "planned");
+    fn crate_declara_el_estado_de_draft() {
+        assert_eq!(course_status(), "draft");
     }
 }
