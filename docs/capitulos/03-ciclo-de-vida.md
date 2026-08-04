@@ -34,3 +34,7 @@ y conserva la evidencia necesaria para los siguientes capítulos.
 No aplica benchmark: el valor es semántico, no de rendimiento. No se agrega
 property testing mientras todas las transiciones posibles estén cubiertas por
 una tabla determinista y legible.
+
+Las pruebas cubren la captura antes de autorización y el reembolso después de
+liquidación. Esas dos fronteras demuestran el objetivo del modelo sin añadir
+una dependencia ni prometer cobertura sobre un proveedor real.
