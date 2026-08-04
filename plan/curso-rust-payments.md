@@ -69,11 +69,11 @@ seguridad, pruebas y cumplimiento aplicable.
 - [x] Modelar referencias sintéticas sin datos de tarjeta.
 - [x] Documentar lo que el curso no certifica ni almacena.
 
-### 05. Idempotencia y reintentos seguros
+### 05. Idempotencia y reintentos seguros — draft
 
-- [ ] Modelar una llave de idempotencia y resultados repetibles.
-- [ ] Comparar reintento ciego, deduplicación y saga compensatoria.
-- [ ] Probar que un duplicado sintético no crea un segundo cobro.
+- [x] Modelar una llave de idempotencia y resultados repetibles.
+- [x] Comparar reintento ciego, deduplicación y saga compensatoria.
+- [x] Probar que un duplicado sintético no crea un segundo cobro.
 
 ### 06. Adaptadores de proveedores
 
