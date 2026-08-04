@@ -17,6 +17,7 @@ sin completar su revisión humana.
 - [07. Webhooks y eventos](capitulos/07-webhooks-y-eventos.md)
 - [08. Conciliación y auditoría](capitulos/08-conciliacion-y-auditoria.md)
 - [09. Riesgo y autenticación](capitulos/09-fraude-y-autenticacion.md)
+- [10. Caso integrador fintech](capitulos/10-caso-integrador-fintech.md)
 
 ## Ejercicios
 
