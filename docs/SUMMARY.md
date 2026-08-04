@@ -27,3 +27,4 @@ sin completar su revisión humana.
 - [06. Adaptadores](ejercicios/06-adaptadores.md)
 - [07. Webhooks](ejercicios/07-webhooks.md)
 - [08. Conciliación](ejercicios/08-conciliacion.md)
+- [09. Riesgo](ejercicios/09-riesgo.md)
