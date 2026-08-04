@@ -45,11 +45,11 @@ seguridad, pruebas y cumplimiento aplicable.
 
 ## Capítulos y dependencias
 
-### 01. Modelo de una pasarela y sus actores
+### 01. Modelo de una pasarela y sus actores — draft
 
-- [ ] Explicar comercio, adquirente, emisor, red y proveedor.
-- [ ] Modelar fronteras de responsabilidad y estados sintéticos.
-- [ ] Comparar integración de proveedor, orquestación propia y procesador.
+- [x] Explicar comercio, adquirente, emisor, red y proveedor.
+- [x] Modelar fronteras de responsabilidad y estados sintéticos.
+- [x] Comparar integración de proveedor, orquestación propia y procesador.
 
 ### 02. Dinero, monedas y redondeo
 
