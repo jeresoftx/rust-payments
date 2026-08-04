@@ -11,9 +11,11 @@ capítulo distingue ese límite con honestidad (RFC-0001 §1 y §20).
 
 ## Estado
 
-El repositorio está en planificación. El [plan operativo](plan/curso-rust-payments.md)
-define los diez capítulos y el [Project operativo de GitHub](https://github.com/users/jeresoftx/projects/30)
-los convierte en trabajo trazable antes de implementar contenido.
+El repositorio está en **draft**. Los diez capítulos, ejemplos y auditorías
+locales están disponibles para revisión humana. El
+[plan operativo](plan/curso-rust-payments.md) y el
+[Project operativo de GitHub](https://github.com/users/jeresoftx/projects/30)
+conservan la trazabilidad del recorrido.
 
 ## Temario base
 
