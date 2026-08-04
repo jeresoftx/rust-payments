@@ -33,6 +33,11 @@ modelo no convierte divisas, no calcula impuestos ni representa saldos reales.
 rendimiento financiero. **Property testing:** no agrega dependencia mientras
 las combinaciones finitas de moneda y redondeo se cubran con pruebas de tabla.
 
+Las pruebas del crate cubren una mezcla inválida de monedas y un residuo que
+debe fallar o redondearse según una política visible. Esa evidencia es más
+útil que una medición de nanosegundos aislada o entradas generadas que oculten
+la regla pedagógica.
+
 ## Implementación
 
 El módulo `money` rechaza monedas distintas, conserva unidades enteras y hace
