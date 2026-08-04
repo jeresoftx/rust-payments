@@ -35,3 +35,4 @@ sin completar su revisión humana.
 
 - [Auditoría técnica](auditorias/tecnica.md)
 - [Auditoría de seguridad, privacidad y licencias](auditorias/seguridad-privacidad-licencias.md)
+- [Auditoría pedagógica](auditorias/pedagogica.md)
