@@ -75,11 +75,11 @@ seguridad, pruebas y cumplimiento aplicable.
 - [x] Comparar reintento ciego, deduplicación y saga compensatoria.
 - [x] Probar que un duplicado sintético no crea un segundo cobro.
 
-### 06. Adaptadores de proveedores
+### 06. Adaptadores de proveedores — draft
 
-- [ ] Diseñar un puerto de proveedor y adaptadores simulados.
-- [ ] Comparar contratos internos con SDKs y APIs externas.
-- [ ] Documentar credenciales, versionado y errores como límites de integración.
+- [x] Diseñar un puerto de proveedor y adaptadores simulados.
+- [x] Comparar contratos internos con SDKs y APIs externas.
+- [x] Documentar credenciales, versionado y errores como límites de integración.
 
 ### 07. Webhooks y cambios de estado asíncronos
 

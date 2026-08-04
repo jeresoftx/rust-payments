@@ -24,7 +24,7 @@ los convierte en trabajo trazable antes de implementar contenido.
 | 03 | Ciclo de vida de una transacción | draft |
 | 04 | Tokenización, PCI-DSS y límites de datos | draft |
 | 05 | Idempotencia y reintentos seguros | draft |
-| 06 | Adaptadores de proveedores | planned |
+| 06 | Adaptadores de proveedores | draft |
 | 07 | Webhooks y cambios de estado asíncronos | planned |
 | 08 | Conciliación, auditoría y discrepancias | planned |
 | 09 | Fraude, 3-D Secure y SCA | planned |
