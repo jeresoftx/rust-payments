@@ -17,3 +17,4 @@ sin completar su revisión humana.
 
 - [01. Modelo de una pasarela](ejercicios/01-modelo-de-pasarela.md)
 - [02. Dinero y redondeo](ejercicios/02-dinero-y-redondeo.md)
+- [04. Tokenización y límites](ejercicios/04-tokenizacion-y-limites.md)
