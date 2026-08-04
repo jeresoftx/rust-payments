@@ -16,6 +16,7 @@ sin completar su revisión humana.
 - [06. Adaptadores de proveedores](capitulos/06-adaptadores-de-proveedores.md)
 - [07. Webhooks y eventos](capitulos/07-webhooks-y-eventos.md)
 - [08. Conciliación y auditoría](capitulos/08-conciliacion-y-auditoria.md)
+- [09. Riesgo y autenticación](capitulos/09-fraude-y-autenticacion.md)
 
 ## Ejercicios
 
