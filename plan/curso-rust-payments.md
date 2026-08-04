@@ -57,11 +57,11 @@ seguridad, pruebas y cumplimiento aplicable.
 - [x] Explicar por qué los flotantes no representan dinero correctamente.
 - [x] Probar conversiones, redondeos y límites sintéticos.
 
-### 03. Ciclo de vida de una transacción
+### 03. Ciclo de vida de una transacción — draft
 
-- [ ] Modelar autorización, captura, liquidación, reverso y reembolso.
-- [ ] Comparar máquina de estados explícita contra estados implícitos.
-- [ ] Probar transiciones válidas e inválidas sin dinero real.
+- [x] Modelar autorización, captura, liquidación, reverso y reembolso.
+- [x] Comparar máquina de estados explícita contra estados implícitos.
+- [x] Probar transiciones válidas e inválidas sin dinero real.
 
 ### 04. Tokenización, PCI-DSS y límites de datos
 
