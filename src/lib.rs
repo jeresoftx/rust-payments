@@ -6,6 +6,7 @@
 #![forbid(unsafe_code)]
 
 pub mod gateway;
+pub mod idempotency;
 pub mod lifecycle;
 pub mod money;
 pub mod token;
