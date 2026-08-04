@@ -9,6 +9,7 @@ sin completar su revisión humana.
 ## Capítulos
 
 - [01. Modelo de una pasarela y sus actores](capitulos/01-modelo-de-pasarela.md)
+- [02. Dinero, monedas y redondeo](capitulos/02-dinero-monedas-y-redondeo.md)
 
 ## Ejercicios
 
