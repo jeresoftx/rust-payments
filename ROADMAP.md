@@ -13,8 +13,9 @@ prevalecen sobre la velocidad (RFC-0001 §1 y §2).
 3. Webhooks, conciliación, fraude y controles de operación.
 4. Caso integrador sintético, auditoría de draft y revisión humana.
 
-El [Project operativo](https://github.com/users/jeresoftx/projects) conservará
-la ruta crítica, issues, milestones y bloqueadores. El detalle vive en
+El [Project operativo de Rust Payments](https://github.com/users/jeresoftx/projects/30)
+conserva la ruta crítica, los issues, milestones y bloqueadores; su vista
+principal está agrupada por milestone. El detalle vive en
 [plan/curso-rust-payments.md](plan/curso-rust-payments.md).
 
 ## Límites de autonomía

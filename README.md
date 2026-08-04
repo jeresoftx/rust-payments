@@ -12,8 +12,8 @@ capítulo distingue ese límite con honestidad (RFC-0001 §1 y §20).
 ## Estado
 
 El repositorio está en planificación. El [plan operativo](plan/curso-rust-payments.md)
-define los diez capítulos y el Project de GitHub los convierte en trabajo
-trazable antes de implementar contenido.
+define los diez capítulos y el [Project operativo de GitHub](https://github.com/users/jeresoftx/projects/30)
+los convierte en trabajo trazable antes de implementar contenido.
 
 ## Temario base
 
@@ -63,6 +63,8 @@ cargo test --doc
 - [ROADMAP.md](ROADMAP.md) ordena el recorrido sin fechas artificiales.
 - [plan/curso-rust-payments.md](plan/curso-rust-payments.md) es el plan vivo
   y fuente de los issues del Project.
+- [Rust Payments — Plan operativo](https://github.com/users/jeresoftx/projects/30)
+  mantiene la vista principal agrupada por milestone.
 - [AGENTS.md](AGENTS.md) establece límites para personas y agentes.
 - [LICENSE.md](LICENSE.md) explica la doble licencia de código y contenido.
 

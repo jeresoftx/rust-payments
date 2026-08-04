@@ -4,6 +4,10 @@
 
 **Fuente de alcance:** RFC-0001 §10, "Pasarelas de pago".
 
+**Seguimiento operativo:** [Rust Payments — Plan operativo](https://github.com/users/jeresoftx/projects/30),
+con issues asignados, milestones por capítulo y vista principal agrupada por
+milestone.
+
 ## Propósito
 
 Construir un curso aplicado de diez capítulos sobre integración y operación de
