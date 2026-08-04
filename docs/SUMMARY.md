@@ -11,6 +11,7 @@ sin completar su revisión humana.
 - [01. Modelo de una pasarela y sus actores](capitulos/01-modelo-de-pasarela.md)
 - [02. Dinero, monedas y redondeo](capitulos/02-dinero-monedas-y-redondeo.md)
 - [03. Ciclo de vida de una transacción](capitulos/03-ciclo-de-vida.md)
+- [04. Tokenización y límites de datos](capitulos/04-tokenizacion-y-limites.md)
 
 ## Ejercicios
 
