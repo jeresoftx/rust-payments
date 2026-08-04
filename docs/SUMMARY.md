@@ -21,3 +21,4 @@ sin completar su revisión humana.
 - [02. Dinero y redondeo](ejercicios/02-dinero-y-redondeo.md)
 - [04. Tokenización y límites](ejercicios/04-tokenizacion-y-limites.md)
 - [05. Idempotencia](ejercicios/05-idempotencia.md)
+- [06. Adaptadores](ejercicios/06-adaptadores.md)
