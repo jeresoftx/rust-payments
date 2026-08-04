@@ -15,6 +15,7 @@ sin completar su revisión humana.
 - [05. Idempotencia y reintentos](capitulos/05-idempotencia-y-reintentos.md)
 - [06. Adaptadores de proveedores](capitulos/06-adaptadores-de-proveedores.md)
 - [07. Webhooks y eventos](capitulos/07-webhooks-y-eventos.md)
+- [08. Conciliación y auditoría](capitulos/08-conciliacion-y-auditoria.md)
 
 ## Ejercicios
 
