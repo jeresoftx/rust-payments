@@ -23,3 +23,7 @@ detecta fraude. No hay perfiles, modelos estadísticos ni datos personales.
 
 No aplica benchmark ni property testing: las combinaciones de tres señales se
 prueban de forma directa y el modelo no pretende medir precisión antifraude.
+
+Las pruebas cubren permitir, desafiar y rechazar. No se agrega property testing
+porque las combinaciones son pequeñas, ni benchmark porque no se mide un modelo
+de riesgo real ni una tasa de detección.
