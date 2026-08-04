@@ -25,3 +25,7 @@ equivalentes.
 No aplica benchmark: medir dos structs en memoria no representa latencia ni
 contratos externos. Las pruebas directas cubren la respuesta estable del puerto
 sin agregar property testing ni dependencias.
+
+La prueba usa la misma solicitud con dos adaptadores y verifica el resultado
+normalizado. Esto cubre el contrato que el capítulo enseña; no intenta medir
+red, disponibilidad ni comportamiento de un proveedor real.
