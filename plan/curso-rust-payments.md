@@ -1,6 +1,6 @@
 # Plan de curso: Rust Payments
 
-**Estado:** aprobado para planificación; implementación pendiente.
+**Estado:** draft completo; revisión humana pendiente.
 
 **Fuente de alcance:** RFC-0001 §10, "Pasarelas de pago".
 
@@ -107,7 +107,7 @@ seguridad, pruebas y cumplimiento aplicable.
 
 ## Auditoría y revisión
 
-- [ ] Auditar crate, manifest, diagramas, ejemplos, benchmarks y límites de
+- [x] Auditar crate, manifest, diagramas, ejemplos, benchmarks y límites de
       seguridad, privacidad y licencias.
 - [ ] Solicitar revisión humana editorial, técnica y de seguridad antes de
       cambiar el estado del draft.
