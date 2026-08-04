@@ -51,3 +51,16 @@ capítulos posteriores, sin introducir credenciales, red o dinero real.
 El módulo `gateway` representa una intención sintética, los actores y un
 resultado observable. Sus pruebas verifican que las fronteras sean explícitas
 y que el ejemplo no pueda confundirse con una operación real.
+
+## Criterio de calidad y medición
+
+**Benchmark:** no aplica. La evaluación de este capítulo es una asignación en
+memoria y no representa la latencia, disponibilidad ni capacidad de una
+pasarela. Medirla produciría números sin valor pedagógico y podría sugerir una
+comparación con proveedores reales que el curso no hace.
+
+**Property testing:** no se agrega una dependencia. Las invariantes actuales
+son finitas y se cubren mejor con pruebas deterministas y legibles: una
+referencia vacía se rechaza y una intención recibida conserva su referencia al
+pasar al estado aceptado. Cuando un capítulo introduzca espacios de entrada
+amplios o combinatorios, volverá a justificar si necesita pruebas generativas.
