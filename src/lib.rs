@@ -11,6 +11,7 @@ pub mod lifecycle;
 pub mod money;
 pub mod provider;
 pub mod reconciliation;
+pub mod risk;
 pub mod token;
 pub mod webhook;
 
