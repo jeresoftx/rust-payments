@@ -14,6 +14,7 @@ sin completar su revisión humana.
 - [04. Tokenización y límites de datos](capitulos/04-tokenizacion-y-limites.md)
 - [05. Idempotencia y reintentos](capitulos/05-idempotencia-y-reintentos.md)
 - [06. Adaptadores de proveedores](capitulos/06-adaptadores-de-proveedores.md)
+- [07. Webhooks y eventos](capitulos/07-webhooks-y-eventos.md)
 
 ## Ejercicios
 
