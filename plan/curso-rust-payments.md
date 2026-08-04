@@ -81,11 +81,11 @@ seguridad, pruebas y cumplimiento aplicable.
 - [x] Comparar contratos internos con SDKs y APIs externas.
 - [x] Documentar credenciales, versionado y errores como límites de integración.
 
-### 07. Webhooks y cambios de estado asíncronos
+### 07. Webhooks y cambios de estado asíncronos — draft
 
-- [ ] Modelar recepción, validación sintética y orden no garantizado de eventos.
-- [ ] Comparar polling, webhook y reconciliación posterior.
-- [ ] Probar deduplicación y transiciones tardías deterministas.
+- [x] Modelar recepción, validación sintética y orden no garantizado de eventos.
+- [x] Comparar polling, webhook y reconciliación posterior.
+- [x] Probar deduplicación y transiciones tardías deterministas.
 
 ### 08. Conciliación, auditoría y discrepancias
 
