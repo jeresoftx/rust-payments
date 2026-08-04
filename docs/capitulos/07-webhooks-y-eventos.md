@@ -23,3 +23,7 @@ real queda explícitamente fuera de alcance.
 
 No aplica benchmark ni property testing: el contrato se demuestra con eventos
 duplicados y tardíos deterministas, no con un supuesto de red real.
+
+La prueba cubre ambas clases de evento con un receptor local. No se agrega
+property testing porque el comportamiento relevante se expresa en pocos casos
+claros, y no se mide rendimiento porque no hay transporte ni firma real.
