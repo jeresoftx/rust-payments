@@ -10,6 +10,7 @@ pub mod idempotency;
 pub mod lifecycle;
 pub mod money;
 pub mod provider;
+pub mod reconciliation;
 pub mod token;
 pub mod webhook;
 
